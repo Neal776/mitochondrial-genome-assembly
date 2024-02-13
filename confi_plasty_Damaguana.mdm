@@ -7,8 +7,8 @@ K-mer                 = 33
 Max memory            = 
 Extended log          = 0
 Save assembled reads  = no
-Seed Input            = /home/guyot/novoplasty/Seed.fasta
-Reference sequence    = /home/guyot/novoplasty/NC_024511.2.fasta
+Seed Input            = /home/machado/novoplasty/Seed.fasta
+Reference sequence    = /home/machado/novoplasty/NC_024511.2.fasta
 Variance detection    = no
 Heteroplasmy          = 
 HP exclude list       =
@@ -21,8 +21,8 @@ Insert size           = 300
 Platform              = illumina
 Single/Paired         = PE
 Combined reads        =
-Forward reads         = /home/guyot/novoplasty/Damag_Cp_dedup.1
-Reverse reads         = /home/guyot/novoplasty/Damag_Cp_dedup.2
+Forward reads         = /home/machado/novoplasty/Damag_Cp_dedup.1
+Reverse reads         = /home/machado/novoplasty/Damag_Cp_dedup.2
 
 Optional:
 -----------------------
